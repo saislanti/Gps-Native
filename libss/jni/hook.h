@@ -1,0 +1,1 @@
+long do_hook(const char *module_path, long hook_func, const char *symbol_name);
